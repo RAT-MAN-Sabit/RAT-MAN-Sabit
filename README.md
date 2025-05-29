@@ -54,55 +54,32 @@ It’s dangerous by design—but only in the right hands. Use it wisely, use it 
 
 ## 🚀 Quick Start
 
-```bash
-git clone https://github.com/yourusername/death-rat.git
-cd death-rat
-pip install -r requirements.txt
-python builder.py
+# 🧠 Ideal For:
 
-💡 Use the generated client with authorized devices only.
+## Penetration Testers
 
+## Red Teams / Blue Teams
 
----
+## CTF Players & Cybersecurity Students
 
-📸 Interface Preview
-
-<p align="center">
-  <img src="screenshots/ui-dark.png" width="600"/>
-  <br>
-  <i>Modern, dark-themed control panel with stealth options</i>
-</p>
----
-
-🧠 Ideal For:
-
-Penetration Testers
-
-Red Teams / Blue Teams
-
-CTF Players & Cybersecurity Students
-
-Sysadmins with automation needs
-
-
+## Sysadmins with automation needs
 
 ---
 
-🔐 License & Policy
+# 🔐 License & Policy
 
-MIT License — Do not use this for malicious purposes.
+### MIT License — Do not use this for malicious purposes.
 Violators will be banned from updates, and actions may be reported to relevant authorities.
 
-
 ---
 
-📬 Contact
+# 📬 Contact
 
-Telegram: @yourhandle
+Telegram: @
 
-GitHub: github.com/yourusername
+GitHub: https://github.com/RAT-MAN-Sabit
 
-Email: yourname@protonmail.com
+Email: codewizard.sabit@gmail.com
 
 
 
