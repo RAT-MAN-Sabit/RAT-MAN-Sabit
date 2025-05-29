@@ -38,8 +38,8 @@ I offer **private, advanced RAT builds** with customizable modules and stealth f
 | Plan        | Features                                                  | Price     |
 |-------------|-----------------------------------------------------------|-----------|
 | Basic       | Obfuscated RAT, Remote Shell, File Manager                | $0 (Free) |
-| Pro         | Screen Viewer, Microphone Access, Persistence, Encryption | $49/month |
-| Ultimate    | Android RAT, Custom Build, FUD Stub, GUI Panel            | $99/month |
+| Pro         | Screen Viewer, Microphone Access, Persistence, Encryption | $100/month |
+| Ultimate    | Android RAT, Custom Build, FUD Stub, GUI Panel            | $150/month |
 
 > 🎁 **Free trials** available for testers.  
 > 🔑 All builds are **encrypted**, **configurable**, and come with **basic support**.
