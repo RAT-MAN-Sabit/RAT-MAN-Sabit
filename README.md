@@ -1,85 +1,78 @@
-<h1 align="center">⚔️ D.E.A.T.H - ETHICAL RAT FRAMEWORK 🧠</h1>
+<h1 align="center">⚔️ SABIT | Ethical Malware & RAT Developer 🧠</h1>
 <p align="center">
-  <b>Deadly Effective Access Tool Handler</b><br>
-  <i>For ethical red-team ops, security testing & advanced system management</i>
+  <b>Red Team Engineer | Cybersecurity Enthusiast | Code Wizard</b><br>
+  <i>Creating dangerous tools for ethical hands only</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-stable-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/github/license/yourusername/death-rat?style=flat-square"/>
-  <img src="https://img.shields.io/badge/powered_by-python-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/focus-red--team-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/skills-RAT%2FMalware%20Dev-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
 </p>
 
 ---
 
-## 🧬 Overview
+## 🧬 About Me
 
-**D.E.A.T.H** is a next-generation, cross-platform Remote Access Framework built for **ethical hacking**, **cybersecurity labs**, and **red team simulations**.  
-It’s dangerous by design—but only in the right hands. Use it wisely, use it legally.
+I'm **Sabit**, an **ethical developer** with a taste for the dark side of code—used **legally**. I specialize in:
 
----
+- ⚔️ Developing powerful, stealthy RATs for research & simulation  
+- 🧠 Building malware for ethical red-teaming and educational labs  
+- 🔍 Security testing, CTFs, and automation tools  
 
-## 🚨 Legal & Ethical Disclaimer
-
-> ⚠️ **READ BEFORE USING**  
-> This tool is for **educational, authorized testing, and research purposes only**.  
-> You must have **explicit permission** to use it on any system. Unauthorized access is **illegal**.  
-> By using this tool, you agree to comply with all local and international laws.
+> I don't build tools for crime. I build them to **prepare you for it.**
 
 ---
 
-## 🛠️ Core Features
+## 💸 Paid Access to Private RAT Tools
 
-- 📡 Reverse Shell with AES encryption
-- 🖥️ Live Screen Capture + Remote Desktop View
-- 🎤 Microphone / Webcam access *(consent required)*
-- 🔐 Encrypted File Transfer, Upload & Delete
-- 🧠 Smart Keylogger Module *(educational only)*
-- 🔄 Persistence Options (fully controllable)
-- 🌍 Cross-platform: Windows / Linux / Android *(limited)*
+If you're a:
 
----
+- ✅ Cybersecurity researcher  
+- ✅ Penetration tester  
+- ✅ Red team operator  
+- ✅ System admin in need of remote access tools  
 
-## 💸 Versions
+I offer **private, advanced RAT builds** with customizable modules and stealth features.
 
-| Plan        | Features                                      | Price     |
-|-------------|-----------------------------------------------|-----------|
-| Free        | Basic RAT, Reverse Shell, File Explorer       | $0        |
-| Pro         | Full Access, Persistence, Screen/Audio, GUI   | $49/month |
-| Ultimate    | Custom Builder, Android RAT, FUD Bypass       | $99/month |
+| Plan        | Features                                                  | Price     |
+|-------------|-----------------------------------------------------------|-----------|
+| Basic       | Obfuscated RAT, Remote Shell, File Manager                | $0 (Free) |
+| Pro         | Screen Viewer, Microphone Access, Persistence, Encryption | $49/month |
+| Ultimate    | Android RAT, Custom Build, FUD Stub, GUI Panel            | $99/month |
 
-> 🎁 Ask on [Telegram](https://t.me/yourhandle) for **free trial keys**
+> 🎁 **Free trials** available for testers.  
+> 🔑 All builds are **encrypted**, **configurable**, and come with **basic support**.
 
----
-
-## 🚀 Quick Start
-
-# 🧠 Ideal For:
-
-## Penetration Testers
-
-## Red Teams / Blue Teams
-
-## CTF Players & Cybersecurity Students
-
-## Sysadmins with automation needs
+**Contact me on Telegram** for full feature list, live demos, and builder access.
 
 ---
 
-# 🔐 License & Policy
+## 📌 What I Stand For
 
-### MIT License — Do not use this for malicious purposes.
-Violators will be banned from updates, and actions may be reported to relevant authorities.
+- ✅ Responsible Disclosure  
+- ✅ Legal Use Only  
+- ✅ Research, Training & Awareness  
+- ❌ No Black Hat BS
 
 ---
 
-# 📬 Contact
+## 🧠 My Tech Stack
 
-Telegram: @
+- 🔥 Python, C#, PowerShell  
+- ⚙️ Telegram Bots, Automation Frameworks  
+- 🧬 Obfuscation, Persistence, Reverse Engineering  
+- 🕵️ Ethical Hacking, Red Team Ops, Malware Analysis  
 
-GitHub: https://github.com/RAT-MAN-Sabit
+---
 
-Email: codewizard.sabit@gmail.com
+## 📬 Connect With Me
 
+- 🧠 GitHub: [github.com/RAT-MAN-Sabit](https://github.com/RAT-MAN-Sabit)  
+- 💬 Telegram: [@yourhandle](https://t.me/yourhandle) *(replace with your real handle)*  
+- ✉️ Email: codewizard.sabit@gmail.com  
 
+---
 
+> ⚠️ All my code and content is strictly for **legal, authorized, and educational use**.  
+> Learn to hack, so you can stop the real ones. 🛡️
